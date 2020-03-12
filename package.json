@@ -1,0 +1,15 @@
+{
+  "name": "args",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shellwords": "^0.1.1",
+    "string-argv": "^0.3.1"
+  }
+}
